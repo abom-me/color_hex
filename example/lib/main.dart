@@ -1,8 +1,5 @@
+import 'package:color_hex/color_hex.dart';
 import 'package:flutter/material.dart';
-import 'package:hex_color/class/color_to_hex.dart';
-import 'package:hex_color/class/hex_to_color.dart';
-import 'package:hex_color/extensions/extension_hextocolor.dart';
-import 'package:hex_color/hex_color.dart';
 
 void main() {
   runApp(const MyApp());

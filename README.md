@@ -1,4 +1,4 @@
-# hex_color:
+# color_hex:
 
 
 
@@ -27,7 +27,7 @@ Pubspec changes:
 
 ```
       dependencies:
-        hex_color: <last_verison>
+        color_hex: <last_verison>
 ```
 
 ### How to use it?
